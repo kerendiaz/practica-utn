@@ -1,6 +1,6 @@
 .container {
     background-color: #fbab7e;
-    background-image: linear-gradient(62deg, #fbab7e, #f7ce68); /* Agregué un gradiente de color */
+    background-image: linear-gradient(62deg, #fbab7e, #f7ce68); 
     width: 80vw;
     height: 100vh;
     margin: 0 auto;
@@ -11,15 +11,15 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(
 }
 
 .caja {
-    border-radius: 50%; /* Hace que el borde sea un círculo */
-    background-color: #63cc2e; /* Color de fondo blanco */
-    text-align: center; /* Centra el texto horizontalmente */
-    display: inline-block; /* Permite que los círculos estén uno al lado del otro */
-    width: 100px; /* Ancho del círculo */
-    height: 100px; /* Altura del círculo */
-    line-height: 100px; /* Centra verticalmente el texto dentro del círculo */
-    margin: 30px; /* Espacio entre círculos */
-    transition: all .5s ease-in-out; /* Transición suave */
+    border-radius: 50%; 
+    background-color: #63cc2e; 
+    text-align: center; 
+    display: inline-block; 
+    width: 100px; 
+    height: 100px; 
+    line-height: 100px; 
+    margin: 30px; 
+    transition: all .5s ease-in-out; 
 }
 
 
